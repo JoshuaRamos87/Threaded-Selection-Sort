@@ -1,5 +1,5 @@
 # Threaded-Selection-Sort
-Implementation of threads for comparing threaded selectionSort and regular selectionSort 
+Implementation of selectionSort using threads to compare threaded selectionSort and regular selectionSort
 ## Approach
 I wanted to compare the speed increase of a poor sorting algorithm with one that had the implementation of using threads. I chose the simple selectionSort algorithm because its O(n^2) average complexity makes it easy to compare, plus it is a very simple algorithm to understand. With some notable helper functions like createRandomVec() the rest was up to the threaded implementation of selectionSort.
  
